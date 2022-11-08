@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "287481344594",
+    "firebase_url": "https://apphosteleria-ef155-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "apphosteleria-ef155",
+    "storage_bucket": "apphosteleria-ef155.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287481344594:android:d64e922dedd733a4f7258b",
+        "android_client_info": {
+          "package_name": "com.example.apphosteleria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287481344594-m1d3192fonqrgp6drk6e277f3ecioe7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABQsSJvR1v-p_JHlsiQaYLqbP8gel8XHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287481344594-m1d3192fonqrgp6drk6e277f3ecioe7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
